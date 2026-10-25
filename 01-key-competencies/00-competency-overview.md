@@ -45,7 +45,7 @@ Business Impact         Middle      ██████████
 - Внедрение аудита аналитики при онбординге новых клиентов.
 - Участие в поиске и приоритизации гипотез.
 
-[Подробная оценка](01-task-discovery.md)
+[Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/01-task-discovery.md)
 
 ### Problem Solving — Middle
 
