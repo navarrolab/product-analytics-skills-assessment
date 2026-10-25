@@ -58,7 +58,7 @@ Business Impact         Middle      ██████████
 - Реализация изменений в аналитике для соответствия требованиям cookie compliance.
 - Инициирование и первоначальная техническая проработка концепции аналитической платформы для A/B-тестирования с объединением данных из ClickUp и Google Analytics.
 
-[Подробная оценка](02-problem-solving.md)
+[Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/02-problem-solving.md)
 
 ### Hard Skills — Junior
 
@@ -73,7 +73,7 @@ Business Impact         Middle      ██████████
 | Machine Learning | 0 |
 | **Итого** | **5** |
 
-[Подробная оценка](03-hard-skills.md)
+[Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/03-hard-skills.md)
 
 ### Knowledge Sharing — Middle
 
@@ -85,7 +85,7 @@ Business Impact         Middle      ██████████
 - Разработка SOP и пошаговых инструкций со скриншотами.
 - Индивидуальные консультации и помощь коллегам в работе с аналитическими инструментами.
 
-[Подробная оценка](04-knowledge-sharing.md)
+[Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/04-knowledge-sharing.md)
 
 ### Expectation Management — Junior+
 
@@ -99,7 +99,7 @@ Business Impact         Middle      ██████████
 
 Внешняя коммуникация с клиентами и управление общими ожиданиями преимущественно находились в зоне ответственности Project Manager.
 
-[Подробная оценка](05-expectation-management.md)
+[Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/05-expectation-management.md)
 
 ### Business Impact — Middle
 
@@ -111,5 +111,5 @@ Business Impact         Middle      ██████████
 - Анализ результатов A/B-тестов и подготовка рекомендаций по дальнейшим действиям.
 - Создание аналитических шаблонов и инструментов, которыми пользовались другие сотрудники команды.
 
-[Подробная оценка](06-business-impact.md)
+[Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/06-business-impact.md)
 
