@@ -62,16 +62,15 @@ Business Impact         Middle      ██████████
 
 ### Hard Skills — Junior
 
-Практический опыт работы с инструментами веб-аналитики, A/B-тестирования и визуализации данных. Основные зоны развития — SQL, статистика и Python.
 
 | Направление | Оценка |
 |---|---:|
 | SQL / DWH | 1 |
-| Визуализация данных | 2 |
+| Визуализация данных | 0 |
 | Статистика и математика | 1 |
 | Python | 1 |
 | Machine Learning | 0 |
-| **Итого** | **5** |
+| **Итого** | **3** |
 
 [Подробная оценка](https://github.com/navarrolab/product-analytics-skills-assessment/blob/main/01-key-competencies/03-hard-skills.md)
 
